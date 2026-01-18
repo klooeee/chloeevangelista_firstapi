@@ -1,0 +1,26 @@
+{
+  "name": "chloeevangelista_firstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klooeee/chloeevangelista_firstapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klooeee/chloeevangelista_firstapi/issues"
+  },
+  "homepage": "https://github.com/klooeee/chloeevangelista_firstapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.1"
+  }
+}
